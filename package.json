@@ -1,0 +1,8 @@
+{
+  "name": "rollup-plugin-bundle-all",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jalal246/rollup-plugin-bundle-all.git",
+  "author": "jalal246 <jimmy002020@gmail.com>",
+  "license": "MIT"
+}
